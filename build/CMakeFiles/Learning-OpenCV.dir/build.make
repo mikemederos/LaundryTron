@@ -69,19 +69,18 @@ include CMakeFiles/Learning-OpenCV.dir/progress.make
 include CMakeFiles/Learning-OpenCV.dir/flags.make
 
 CMakeFiles/Learning-OpenCV.dir/main.cpp.obj: CMakeFiles/Learning-OpenCV.dir/flags.make
-CMakeFiles/Learning-OpenCV.dir/main.cpp.obj: CMakeFiles/Learning-OpenCV.dir/includes_CXX.rsp
 CMakeFiles/Learning-OpenCV.dir/main.cpp.obj: C:/Users/mikef/OneDrive/Documents/GitHub/Learning-OpenCV/main.cpp
 CMakeFiles/Learning-OpenCV.dir/main.cpp.obj: CMakeFiles/Learning-OpenCV.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\mikef\OneDrive\Documents\GitHub\Learning-OpenCV\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Learning-OpenCV.dir/main.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Learning-OpenCV.dir/main.cpp.obj -MF CMakeFiles\Learning-OpenCV.dir\main.cpp.obj.d -o CMakeFiles\Learning-OpenCV.dir\main.cpp.obj -c C:\Users\mikef\OneDrive\Documents\GitHub\Learning-OpenCV\main.cpp
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\Learning-OpenCV.dir\main.cpp.obj.d --working-dir=C:\Users\mikef\OneDrive\Documents\GitHub\Learning-OpenCV\build --filter-prefix="Note: including file: " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1434~1.319\bin\Hostx86\x64\cl.exe  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\Learning-OpenCV.dir\main.cpp.obj /FdCMakeFiles\Learning-OpenCV.dir/ /FS -c C:\Users\mikef\OneDrive\Documents\GitHub\Learning-OpenCV\main.cpp
 
 CMakeFiles/Learning-OpenCV.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Learning-OpenCV.dir/main.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mikef\OneDrive\Documents\GitHub\Learning-OpenCV\main.cpp > CMakeFiles\Learning-OpenCV.dir\main.cpp.i
+	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1434~1.319\bin\Hostx86\x64\cl.exe > CMakeFiles\Learning-OpenCV.dir\main.cpp.i  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mikef\OneDrive\Documents\GitHub\Learning-OpenCV\main.cpp
 
 CMakeFiles/Learning-OpenCV.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Learning-OpenCV.dir/main.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mikef\OneDrive\Documents\GitHub\Learning-OpenCV\main.cpp -o CMakeFiles\Learning-OpenCV.dir\main.cpp.s
+	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1434~1.319\bin\Hostx86\x64\cl.exe  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Learning-OpenCV.dir\main.cpp.s /c C:\Users\mikef\OneDrive\Documents\GitHub\Learning-OpenCV\main.cpp
 
 # Object files for target Learning-OpenCV
 Learning__OpenCV_OBJECTS = \
@@ -108,7 +107,6 @@ Learning-OpenCV.exe: C:/opencv/build/x64/vc16/lib/opencv_world470d.lib
 Learning-OpenCV.exe: C:/opencv/build/x64/vc16/lib/opencv_world470d.lib
 Learning-OpenCV.exe: C:/opencv/build/x64/vc16/lib/opencv_world470d.lib
 Learning-OpenCV.exe: C:/opencv/build/x64/vc16/lib/opencv_world470d.lib
-Learning-OpenCV.exe: CMakeFiles/Learning-OpenCV.dir/linkLibs.rsp
 Learning-OpenCV.exe: CMakeFiles/Learning-OpenCV.dir/objects1
 Learning-OpenCV.exe: CMakeFiles/Learning-OpenCV.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\mikef\OneDrive\Documents\GitHub\Learning-OpenCV\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Learning-OpenCV.exe"

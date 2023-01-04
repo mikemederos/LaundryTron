@@ -3,8 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Learning-OpenCV.dir/main.cpp.obj.d"
   "Learning-OpenCV.exe"
   "Learning-OpenCV.exe.manifest"
+  "Learning-OpenCV.lib"
   "Learning-OpenCV.pdb"
-  "libLearning-OpenCV.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

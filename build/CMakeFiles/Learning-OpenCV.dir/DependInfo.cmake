@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/mikef/OneDrive/Documents/GitHub/Learning-OpenCV/main.cpp" "CMakeFiles/Learning-OpenCV.dir/main.cpp.obj" "gcc" "CMakeFiles/Learning-OpenCV.dir/main.cpp.obj.d"
+  "C:/Users/mikef/OneDrive/Documents/GitHub/Learning-OpenCV/main.cpp" "CMakeFiles/Learning-OpenCV.dir/main.cpp.obj" "msvc" "CMakeFiles/Learning-OpenCV.dir/main.cpp.obj.d"
   )
 
 # Targets to which this target links.
