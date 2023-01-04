@@ -297,7 +297,7 @@ CTEST_SUBMIT_RETRY_DELAY:STRING=5
 DART_TESTING_TIMEOUT:STRING=1500
 
 //Path to a program.
-GITCOMMAND:FILEPATH=GITCOMMAND-NOTFOUND
+GITCOMMAND:FILEPATH=C:/Program Files/Git/cmd/git.exe
 
 //Value Computed by CMake
 Learning-OpenCV_BINARY_DIR:STATIC=C:/Users/mikef/OneDrive/Documents/GitHub/Learning-OpenCV/build
