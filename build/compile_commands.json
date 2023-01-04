@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/mikef/OneDrive/Documents/GitHub/Learning-OpenCV/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Learning-OpenCV.dir/includes_CXX.rsp -g -o CMakeFiles\\Learning-OpenCV.dir\\main.cpp.obj -c C:\\Users\\mikef\\OneDrive\\Documents\\GitHub\\Learning-OpenCV\\main.cpp",
+  "file": "C:/Users/mikef/OneDrive/Documents/GitHub/Learning-OpenCV/main.cpp"
+}
+]
