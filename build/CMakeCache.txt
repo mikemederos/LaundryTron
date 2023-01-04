@@ -128,7 +128,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Learning-OpenCV
+CMAKE_PROJECT_NAME:STATIC=LaundryTron
 
 //Value Computed by CMake
 CMAKE_PROJECT_VERSION:STATIC=0.1.0
@@ -258,6 +258,15 @@ DART_TESTING_TIMEOUT:STRING=1500
 
 //Path to a program.
 GITCOMMAND:FILEPATH=C:/Program Files/Git/cmd/git.exe
+
+//Value Computed by CMake
+LaundryTron_BINARY_DIR:STATIC=C:/Users/mikef/OneDrive/Documents/GitHub/Learning-OpenCV/build
+
+//Value Computed by CMake
+LaundryTron_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+LaundryTron_SOURCE_DIR:STATIC=C:/Users/mikef/OneDrive/Documents/GitHub/Learning-OpenCV
 
 //Value Computed by CMake
 Learning-OpenCV_BINARY_DIR:STATIC=C:/Users/mikef/OneDrive/Documents/GitHub/Learning-OpenCV/build

@@ -26,7 +26,7 @@ C:/Users/mikef/OneDrive/Documents/GitHub/Learning-OpenCV/build/CMakeFiles/Contin
 C:/Users/mikef/OneDrive/Documents/GitHub/Learning-OpenCV/build/CMakeFiles/ContinuousCoverage.dir
 C:/Users/mikef/OneDrive/Documents/GitHub/Learning-OpenCV/build/CMakeFiles/ContinuousMemCheck.dir
 C:/Users/mikef/OneDrive/Documents/GitHub/Learning-OpenCV/build/CMakeFiles/ContinuousSubmit.dir
-C:/Users/mikef/OneDrive/Documents/GitHub/Learning-OpenCV/build/CMakeFiles/Learning-OpenCV.dir
+C:/Users/mikef/OneDrive/Documents/GitHub/Learning-OpenCV/build/CMakeFiles/LaundryTron.dir
 C:/Users/mikef/OneDrive/Documents/GitHub/Learning-OpenCV/build/CMakeFiles/package.dir
 C:/Users/mikef/OneDrive/Documents/GitHub/Learning-OpenCV/build/CMakeFiles/package_source.dir
 C:/Users/mikef/OneDrive/Documents/GitHub/Learning-OpenCV/build/CMakeFiles/test.dir

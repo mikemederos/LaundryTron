@@ -783,7 +783,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Learning-OpenCV"
+			"value" : "LaundryTron"
 		},
 		{
 			"name" : "CMAKE_PROJECT_VERSION",
@@ -1468,6 +1468,42 @@
 			],
 			"type" : "UNINITIALIZED",
 			"value" : ""
+		},
+		{
+			"name" : "LaundryTron_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/mikef/OneDrive/Documents/GitHub/Learning-OpenCV/build"
+		},
+		{
+			"name" : "LaundryTron_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "LaundryTron_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/mikef/OneDrive/Documents/GitHub/Learning-OpenCV"
 		},
 		{
 			"name" : "Learning-OpenCV_BINARY_DIR",

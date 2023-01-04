@@ -62,7 +62,7 @@ CMAKE_BINARY_DIR = C:\Users\mikef\OneDrive\Documents\GitHub\Learning-OpenCV\buil
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/Learning-OpenCV.dir/all
+all: CMakeFiles/LaundryTron.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -98,7 +98,7 @@ clean: CMakeFiles/ContinuousTest.dir/clean
 clean: CMakeFiles/ContinuousCoverage.dir/clean
 clean: CMakeFiles/ContinuousMemCheck.dir/clean
 clean: CMakeFiles/ContinuousSubmit.dir/clean
-clean: CMakeFiles/Learning-OpenCV.dir/clean
+clean: CMakeFiles/LaundryTron.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -830,30 +830,30 @@ CMakeFiles/ContinuousSubmit.dir/clean:
 .PHONY : CMakeFiles/ContinuousSubmit.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/Learning-OpenCV.dir
+# Target rules for target CMakeFiles/LaundryTron.dir
 
 # All Build rule for target.
-CMakeFiles/Learning-OpenCV.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Learning-OpenCV.dir\build.make CMakeFiles/Learning-OpenCV.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Learning-OpenCV.dir\build.make CMakeFiles/Learning-OpenCV.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\mikef\OneDrive\Documents\GitHub\Learning-OpenCV\build\CMakeFiles --progress-num=1,2 "Built target Learning-OpenCV"
-.PHONY : CMakeFiles/Learning-OpenCV.dir/all
+CMakeFiles/LaundryTron.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LaundryTron.dir\build.make CMakeFiles/LaundryTron.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LaundryTron.dir\build.make CMakeFiles/LaundryTron.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\mikef\OneDrive\Documents\GitHub\Learning-OpenCV\build\CMakeFiles --progress-num=1,2 "Built target LaundryTron"
+.PHONY : CMakeFiles/LaundryTron.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/Learning-OpenCV.dir/rule: cmake_check_build_system
+CMakeFiles/LaundryTron.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\mikef\OneDrive\Documents\GitHub\Learning-OpenCV\build\CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Learning-OpenCV.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LaundryTron.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\mikef\OneDrive\Documents\GitHub\Learning-OpenCV\build\CMakeFiles 0
-.PHONY : CMakeFiles/Learning-OpenCV.dir/rule
+.PHONY : CMakeFiles/LaundryTron.dir/rule
 
 # Convenience name for target.
-Learning-OpenCV: CMakeFiles/Learning-OpenCV.dir/rule
-.PHONY : Learning-OpenCV
+LaundryTron: CMakeFiles/LaundryTron.dir/rule
+.PHONY : LaundryTron
 
 # clean rule for target.
-CMakeFiles/Learning-OpenCV.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Learning-OpenCV.dir\build.make CMakeFiles/Learning-OpenCV.dir/clean
-.PHONY : CMakeFiles/Learning-OpenCV.dir/clean
+CMakeFiles/LaundryTron.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LaundryTron.dir\build.make CMakeFiles/LaundryTron.dir/clean
+.PHONY : CMakeFiles/LaundryTron.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

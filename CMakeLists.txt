@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.0)
-project(Learning-OpenCV VERSION 0.1.0)
+project(LaundryTron VERSION 0.1.0)
 
 include(CTest)
 enable_testing()
@@ -7,9 +7,9 @@ enable_testing()
 find_package(OpenCV REQUIRED)
 include_directories(${OpenCV_INCLUDE_DIRS})
 
-add_executable(Learning-OpenCV main.cpp)
+add_executable(LaundryTron main.cpp)
 
-target_link_libraries(Learning-OpenCV ${OpenCV_LIBS})
+target_link_libraries(LaundryTron ${OpenCV_LIBS})
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})

@@ -1,7 +1,7 @@
 [
 {
   "directory": "C:/Users/mikef/OneDrive/Documents/GitHub/Learning-OpenCV/build",
-  "command": "C:\\PROGRA~1\\MICROS~3\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1434~1.319\\bin\\Hostx86\\x64\\cl.exe  /nologo /TP  -external:IC:\\opencv\\build\\include -external:W0 /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\Learning-OpenCV.dir\\main.cpp.obj /FdCMakeFiles\\Learning-OpenCV.dir/ /FS -c C:\\Users\\mikef\\OneDrive\\Documents\\GitHub\\Learning-OpenCV\\main.cpp",
+  "command": "C:\\PROGRA~1\\MICROS~3\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1434~1.319\\bin\\Hostx86\\x64\\cl.exe  /nologo /TP  -external:IC:\\opencv\\build\\include -external:W0 /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\LaundryTron.dir\\main.cpp.obj /FdCMakeFiles\\LaundryTron.dir/ /FS -c C:\\Users\\mikef\\OneDrive\\Documents\\GitHub\\Learning-OpenCV\\main.cpp",
   "file": "C:/Users/mikef/OneDrive/Documents/GitHub/Learning-OpenCV/main.cpp"
 }
 ]
